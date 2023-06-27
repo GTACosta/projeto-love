@@ -13,5 +13,5 @@ var a = document.querySelector("#stadybutton");
 a.addEventListener("click",alerta);
 
 function alerta() {
-    window.alert("Perfeita escolha, agora é so pedir meu número!");
+    window.alert("Perfeita escolha, agora é só pedir meu número!");
 };
