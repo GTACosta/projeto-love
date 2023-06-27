@@ -13,5 +13,5 @@ var a = document.querySelector("#stadybutton");
 a.addEventListener("click",alerta);
 
 function alerta() {
-    window.alert("Perfeita escolha! De primeira, parabéns");
+    window.alert("Perfeita escolha! De primeira, parabéns!");
 };
